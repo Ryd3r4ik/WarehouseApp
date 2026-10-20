@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ca4ffe22-ba0a-41da-baf5-6c7322f132b1}</ProjectGuid>
+    <ProjectGuid>{CA4FFE22-BA0A-41DA-BAF5-6C7322F132B1}</ProjectGuid>
     <RootNamespace>WarehouseApp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
