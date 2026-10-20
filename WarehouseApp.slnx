@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="WarehouseApp/WarehouseApp.vcxproj" Id="ca4ffe22-ba0a-41da-baf5-6c7322f132b1" />
+  <Project Path="WarehouseTests/WarehouseTests.vcxproj" Id="b501d4e5-eae4-4a26-87fb-ca33286cbdc9" />
 </Solution>
