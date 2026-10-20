@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Features_Member1.cpp" />
+    <ClCompile Include="Features_Member2.cpp" />
     <ClCompile Include="WarehouseApp.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -147,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Features_Member1.h" />
+    <ClInclude Include="Features_Member2.h" />
     <ClInclude Include="Models.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
