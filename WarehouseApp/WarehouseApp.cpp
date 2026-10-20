@@ -1,17 +1,15 @@
 #include <iostream>
 #include <vector>
-#include <windows.h> // Обязательно для SetConsoleCP
+#include <windows.h> 
 #include "Models.h"
 #include "Features_Member1.h"
 #include "Features_Member2.h"
 #include "Features_Member3.h"
 
 int main() {
-    // 1. Принудительно переводим консоль в UTF-8 (кодовая страница 65001)
+   
     SetConsoleCP(65001);
     SetConsoleOutputCP(65001);
-
-    // ВАЖНО: Никакого setlocale тут быть не должно! Он ломает вывод в VS.
 
     std::vector<Category> categories;
     std::vector<Product> products;
