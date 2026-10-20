@@ -22,4 +22,9 @@
   <ItemGroup>
     <None Include=".editorconfig" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Models.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
